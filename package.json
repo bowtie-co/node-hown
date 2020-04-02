@@ -1,0 +1,22 @@
+{
+  "name": "hown",
+  "version": "0.0.1",
+  "description": "hown",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/node-hown.git"
+  },
+  "keywords": [
+    "hown"
+  ],
+  "author": "Bowtie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/node-hown/issues"
+  },
+  "homepage": "https://github.com/bowtie-co/node-hown#readme"
+}
